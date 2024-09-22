@@ -43,3 +43,6 @@ Los usuarios finales de este análisis podrían ser:
 -Entender mejor los factores que influyen en el estado de entrega de los pedidos en Amazon.
 -Desarrollar estrategias para mejorar la logística y la satisfacción del cliente.
 -Informar decisiones estratégicas sobre el enfoque de ventas y marketing en diferentes ciudades y canales.
+
+### Conclusiones:
+Utilizando XGboost y Random Forest, veo que los modelos obtienen un 0.99 de acierto. Esto sugiere que son buenos métodos, sin embargo, pueden ser valores sobreajsutados. Es decir, el modelo ha mostrado un desempeño excepcional con un 99% de precisión en los datos de entrenamiento. Sin embargo, este alto nivel de acierto me sugiere un posible sobreajuste, donde el modelo ha aprendido no solo los patrones generales, sino también el ruido presente en los datos. Para lo cual, se podría seguir realizando otras técnicas sobre el modelo
