@@ -2,7 +2,7 @@
 Repositorio para data scientist
 
 ## ABSTRACT
-
+El soporte del análisis se encuentra en el archivo "ProyectoDS_ParteI_FerreyraHectorLeonardo_v10"
 
 ### Breve Descripción Temática:
 El análisis se centra en comprender cómo diversos factores afectan el estado de entrega de los pedidos de Amazon. Esto incluye la influencia de la ciudad de destino, el tipo de prenda comprada y el canal de ventas utilizado. El estudio busca identificar patrones y factores críticos que puedan ser utilizados para mejorar la logística y las estrategias de ventas, proporcionando información valiosa para la optimización operativa y la mejora de la experiencia del cliente.
